@@ -44,6 +44,9 @@ body{
   background-color: lightblue;
   border-radius: 10px;
 }
+.img_height{
+  height: 400px;
+}
 hr{
   margin-top: 25px;
   border-style:none;
