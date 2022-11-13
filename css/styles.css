@@ -53,3 +53,13 @@ hr{
   border-top: 5px dotted darkblue;
   width: 20%;
 }
+
+@media only screen and (max-width: 600px) {
+  .images_div {
+    display: flex;
+    flex-direction: column;
+  }
+  .img_height{
+    margin-bottom: 25px;
+  }
+}
